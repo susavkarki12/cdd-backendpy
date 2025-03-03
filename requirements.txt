@@ -10,7 +10,6 @@ attrs==24.1.0
 banal==1.0.6
 bcrypt==3.2.0
 blinker==1.9.0
-Brlapi==0.8.3
 cachetools==5.5.2
 certifi==2024.7.4
 cffi==1.17.1
